@@ -10,12 +10,12 @@
 
 
 # INSTALLATION [ TERMUX APP --ANDROID ]
-* git clone https://github.com/khacker1024/X-Crawler
+* git clone https://github.com/predator0x300/X-Crawler
 * cd X-Crawler/
 * python3 x-crawler.py
 
 # INSTALLATION [ KALI ]
-* git clone https://github.com/khacker1024/X-Crawler
+* git clone https://github.com/predator0x300/X-Crawler
 * cd X-Crawler/
 * python3 x-crawler.py
 
@@ -34,7 +34,7 @@
 
 # Contact For Contribute & Issues 
 
-                                      EMAIL FOR ISSUES AND CONTRIBUTE : kamaldeepsingh9821@gmail.com
+                                      EMAIL FOR ISSUES AND CONTRIBUTE : predator0x300@gmail.com
 
 # DISCLAIMER
                                        TO BE USED FOR EDUCATIONAL PURPOSES ONLY
